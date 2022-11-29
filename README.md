@@ -1,3 +1,3 @@
 # world_cup_historical_analysis
 
-#This will be an only replyed exercise of existent project.
+##This will be only a replication exercise of a existent project.
