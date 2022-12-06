@@ -1,4 +1,4 @@
-#World Cup Historical Analysis 
+# World Cup Historial Analysis 
 
 This will be only a replication exercise of a already existent project.
 
